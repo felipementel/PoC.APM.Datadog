@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoC.APM.Datadog", "PoC.APM.Datadog\PoC.APM.Datadog.csproj", "{368E7867-6D9D-48CE-8383-ECD680566E2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{368E7867-6D9D-48CE-8383-ECD680566E2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{368E7867-6D9D-48CE-8383-ECD680566E2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{368E7867-6D9D-48CE-8383-ECD680566E2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{368E7867-6D9D-48CE-8383-ECD680566E2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FB23615-BABC-4A9A-8BD9-72978C747EC8}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+# https://github.com/DataDog/datadog-agent/tree/master/Dockerfiles/dogstatsd/alpine
+
+version: '3.6'
+
+services:
+
+  dogstatsd:
+    image: "datadog/dogstatsd:7"
+    container_name: dogstatsd
+    ports: 
+     - 8125:8125/udp
+    environment:
+     - DD_API_KEY=_GUID_
+     - DD_HOSTNAME=DockerFelipeG7
+     - DD_TRACE_DEBUG=true

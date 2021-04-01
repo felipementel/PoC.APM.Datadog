@@ -1,0 +1,6 @@
+﻿f2b2259a6c7bf9cc3939a300c67306fd
+
+        "DD_TRACE_AGENT_URL": "http://localhost:8125",
+        "DD_ENV": "dev2",
+        "DD_SERVICE": "MyService",
+        "DD_VERSION": "abc123",
